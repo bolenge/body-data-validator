@@ -1,0 +1,33 @@
+{
+  "name": "body-data-validator",
+  "version": "0.0.1",
+  "description": "Data validation module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolenge/body-data-validator.git"
+  },
+  "keywords": [
+    "body-validator",
+    "validator",
+    "body",
+    "validation",
+    "data-validator",
+    "data-validation",
+    "json-validator",
+    "validate"
+  ],
+  "author": "Don de Dieu Bolenge <dondedieubolenge@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolenge/body-data-validator/issues"
+  },
+  "homepage": "https://github.com/bolenge/body-data-validator#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "mbnumber": "^0.1.1"
+  }
+}
