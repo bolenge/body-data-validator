@@ -2,8 +2,9 @@
   "name": "body-data-validator",
   "version": "0.0.1",
   "description": "Data validation module",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
+    "start": "node ./test",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
