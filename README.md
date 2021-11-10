@@ -72,7 +72,7 @@ This method is the one which launches all the monoworks, it receives 2 parameter
 
 > Note: In case you need to ensure that the name of the field to display the message to the user is not that of the sent data field, you can specify this name by adding the rule `field: Name to display`.
 
-Exemple
+Example
 ```js
 let rules = {
 	name: 'field:Nom|required|min:3|max:30',
@@ -93,6 +93,6 @@ req.body.verify(rules, (valid, errors) => {
 
 Features to be added in future versions:
 
-* Localization (internationalization or use of several languages for error messages)
+* i18n (internationalization or use of several languages for error messages)
 
 [@bolenge](https://github.com/bolenge)
