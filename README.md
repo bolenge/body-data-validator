@@ -89,10 +89,14 @@ req.body.verify(rules, (valid, errors) => {
 })
 ```
 
-### Features
+### Roadmap
 
-Features to be added in future versions:
+<a href="https://trello.com/invite/b/FJxAzsc6/ebc27d25fd036bb93e5e0105721c295d/body-data-validator" target="_blank">Click here</a> to open the new features roadmap
 
-* i18n (internationalization or use of several languages for error messages)
+#### Features
+
+* Add the validation rule of a File field, with the possibility of specifying the type of file
+* Ability to add your own validation rules
+* Integration of the i18n system of error messages
 
 [@bolenge](https://github.com/bolenge)
