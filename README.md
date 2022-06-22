@@ -1,6 +1,6 @@
 ## body-data-validator
 
-It is a JavaScript module (NodeJS) managing data validation
+It is a JavaScript module (NodeJS) managing form inputs validation
 
 ### Installation
 
